@@ -1,0 +1,30 @@
+header{
+    display:flex;
+}
+#title {
+background-color:blue; 
+}
+.container-fluid{
+    height:100%
+}
+.col, .col-lg,.col-lg-9{
+    border:3px solid black;
+}
+header img{
+    height:100px;
+    width:100px;
+}
+#DNS_header{
+    display:flex;
+    margin:5px;
+    justify-content: space-between;}
+#DNS_header img{
+    height:100px;
+    width:100px;}
+.DNS_header_inline{
+    display: inline-flex;
+    align-items: center;
+}
+.phone_header_flex{
+    display:flex;
+}
